@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Prescripto
->>>>>>> 34c1724533adf07001a3374e13d589fef49c7353
+Prescripto is a doctor appointment website designed to simplify the process of scheduling medical appointments. The platform allows patients to easily book appointments with doctors, view available time slots, and manage their appointments online. Doctors can manage their schedules, view patient details, and confirm or reschedule appointments. Prescripto aims to improve accessibility and convenience for both patients and healthcare providers, enhancing the overall patient experience by providing a seamless, user-friendly interface for appointment management.
